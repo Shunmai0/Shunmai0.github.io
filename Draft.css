@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+h2 {
+    color: purple;
+    text-decoration: underline;
+}
+.date {
+    color: blue;
+    font-weight: bold;
+}
+
+.entry {
+    font-family: cursive;
+}
+
+div {
+    background-color: pink;
+    border: 2px solid purple;
+    border-radius: 10px;
+    width: 70%;
+    margin: auto; /* Centers div in page */
+    text-align: center; /* Centers div's contents */
+}
+
+section {
+    text-align: center;
+}
